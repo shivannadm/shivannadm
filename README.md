@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shivannadm
 - 👀 I’m interested on exploring the coding
 - 🌱 I’m currently learning in India
-- 💞️ I’m looking to collaborate on software developers
 - 📫 How to reach me ...!
 
 <!---
